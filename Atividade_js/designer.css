@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    background-color: #001523;
+}
+
+
+.quad {
+    background-color: #6e5774;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+}
